@@ -83,11 +83,9 @@ The program uses CSV files to store the data.
 
 The main files are:
 
-```text
-students.csv
-courses.csv
-marks.csv
-```
+1. students.csv
+2. courses.csv
+3. marks.csv
 
 ### students.csv
 
@@ -123,3 +121,32 @@ The program uses Python's built-in `csv` module, so no extra library needs to be
 
 This project helped me understand how to make a simple menu-based Python program and how to store and read data using CSV files.
 I also used different concepts like loops, conditions, file handling, lists and basic calculations while making this project.
+
+Screenshots :
+
+<img width="1648" height="996" alt="Screenshot 2026-09-28 at 9 48 07 PM" src="https://github.com/user-attachments/assets/a3787456-2caf-4ed5-8a56-dc8bd918369f" />
+
+<img width="1652" height="1001" alt="Screenshot 2026-09-28 at 9 48 29 PM" src="https://github.com/user-attachments/assets/522757d6-e475-4d65-a153-6da0f878005e" />
+
+<img width="1650" height="995" alt="Screenshot 2026-09-28 at 9 48 43 PM" src="https://github.com/user-attachments/assets/d9e01864-740d-409b-b65a-1fef81f8d710" />
+
+<img width="1644" height="999" alt="Screenshot 2026-09-28 at 9 49 03 PM" src="https://github.com/user-attachments/assets/23df5a44-836b-4d84-8381-d292cce5454f" />
+
+<img width="1648" height="990" alt="Screenshot 2026-09-28 at 9 49 20 PM" src="https://github.com/user-attachments/assets/2bd02757-521d-466f-847f-2f84672c6755" />
+
+<img width="1644" height="991" alt="Screenshot 2026-09-28 at 9 49 38 PM" src="https://github.com/user-attachments/assets/3bc80d4b-d753-48d5-b7b0-3faa7ba20a92" />
+
+<img width="1644" height="983" alt="Screenshot 2026-09-28 at 9 49 58 PM" src="https://github.com/user-attachments/assets/84d08607-79d0-425f-8d97-456c6522bdf8" />
+
+<img width="1645" height="993" alt="Screenshot 2026-09-28 at 9 50 12 PM" src="https://github.com/user-attachments/assets/05dcda47-423f-441f-859b-4265b820f2f4" />
+
+<img width="1645" height="993" alt="Screenshot 2026-09-28 at 9 50 28 PM" src="https://github.com/user-attachments/assets/19afcf01-7351-4d4e-a3a4-73d3e3bc3d0e" />
+
+<img width="1647" height="994" alt="Screenshot 2026-09-28 at 9 50 52 PM" src="https://github.com/user-attachments/assets/ffd40da0-5257-45ff-9bb6-bbbdefc3b048" />
+
+
+
+
+
+
+
