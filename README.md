@@ -144,7 +144,7 @@ Screenshots :
 
 <img width="1647" height="994" alt="Screenshot 2026-09-28 at 9 50 52 PM" src="https://github.com/user-attachments/assets/ffd40da0-5257-45ff-9bb6-bbbdefc3b048" />
 
-Outputs :
+<h2>Outputs :</h2>
 
 <img width="1637" height="992" alt="Screenshot 2026-09-28 at 10 03 26 PM" src="https://github.com/user-attachments/assets/85813adc-2b29-49a2-a0eb-fcf2ef34af3f" />
 
